@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as follows:"
+title: "RAPI Family Dynamics Dataset"
+version: "1.0.0"
+authors:
+  - family-names: "Bui"
+    given-names: "Amy Pierce"
+repository-code: "https://github.com/rapirelationalaipsycinstitute/rapi-family-dynamics-dataset"
+license: "CC-BY-NC-SA-4.0"
+date-released: "2025-01-01"
