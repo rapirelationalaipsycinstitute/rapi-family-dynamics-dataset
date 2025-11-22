@@ -1,0 +1,6 @@
+plugins:
+  - jekyll-seo-tag
+include:
+  - head-custom.html
+  - robots.txt
+  - sitemap.xml
